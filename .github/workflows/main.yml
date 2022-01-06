@@ -3,4 +3,4 @@
   uses: game-ci/unity-activate@v1.3
   with:
     # Version of unity to use for building the project.
-    unityVersion: # optional, default is 2019.2.11f1
+    unityVersion: 2021.2.7
